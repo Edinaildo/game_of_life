@@ -14,4 +14,6 @@ Então você pode acessar e jogar [clicando aqui](https://edinaildo.github.io/ga
 * npm run build
 * npm run serve
 
-### Em Python, 
+### Em Python, *no diretório jogo_da_vida_python:*
+* pip install -r requirements.txt
+* python3 jogo_da_vida.py
