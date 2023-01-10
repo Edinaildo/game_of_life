@@ -8,8 +8,10 @@
 Então você pode acessar e jogar [clicando aqui](https://edinaildo.github.io/game_of_life/) :video_game:
 
 ### Além disso, você também pode fazer o setup do meu código em sua máquina e conferir com mais detalhes, além de poder executar a versão em python :snake:
-Comandos para rodar em Vue:
-### No diretório Vuelife:
+### Comandos para rodar os projetos:
+#### Em Vue, *no diretório Vuelife:*
 * npm install
 * npm run build
 * npm run serve
+
+### Em Python, 
